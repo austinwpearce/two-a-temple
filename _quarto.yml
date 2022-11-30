@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs # for github pages
+
+website:
+  page-footer: "[About](about.qmd) | [License](LICENSE.md)"
+  search: false
+  title: "Two a Temple"
+  navbar:
+    background: "#006184"
+    pinned: false
+    contents:
+      - about.qmd
+
+format:
+  html:
+    linkcolor: "#006184"
+    page-layout: full
+    theme: litera
+    css: styles.css
+    toc: true
+
+editor: visual
+

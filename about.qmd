@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+The map was built using ArcGIS Pro and the [service area](https://pro.arcgis.com/en/pro-app/latest/help/analysis/networks/service-area-analysis-layer.htm) analysis within the network analysis toolbox. You can [email me](mailto:awprc@pm.me) if you have more questions or comments.
