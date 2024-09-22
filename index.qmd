@@ -1,6 +1,6 @@
 ---
 title: "Do you live within two hours of an LDS temple?"
-date-modified: "2021-10-19"
+date-modified: last-modified
 description: "Explore the map."
 ---
 
@@ -8,21 +8,20 @@ description: "Explore the map."
 
 The Church of Jesus Christ of Latter-day Saints is a church that [builds temples](https://www.churchofjesuschrist.org/temples/why-latter-day-saints-build-temples?lang=eng) in addition to local meetinghouses. An LDS temple is different from a regular, chapel-style meetinghouse. These building are considered sacred, and given their importance the LDS church has tried mightily to build them up to reduce drive times for church members.
 
-I made the map below to find areas within a two hour drive of a temple[^1]. The two hours are split into 30, 60, 120 minute rings.
+I made the map below to find areas within a two hour drive of a temple[^1].
 
 [^1]: Locations may not be exactly exact for recently announced temples.
 
-::: column-screen
+::: column-page
 ```{=html}
-<style>.embed-container {position: relative; padding-bottom: 47%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 97%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: 0px;}</style>
+<style>.embed-container {position: relative; padding-bottom: 70%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -25px;}</style>
 ```
 ::: embed-container
-<iframe width="500" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Two a Temple" src="//ncsu.maps.arcgis.com/apps/Embed/index.html?webmap=529a7509002646b9b4a89e29baeb11e8&amp;extent=-124.7517,22.2411,-66.4802,52.2767&amp;zoom=true&amp;previewImage=false&amp;scale=true&amp;search=true&amp;searchextent=false&amp;basemap_toggle=true&amp;alt_basemap=topo&amp;disable_scroll=true&amp;theme=light">
+<small><a href="//virginiatech.maps.arcgis.com/apps/Embed/index.html?webmap=b74061f1d0bc4a20b35fb1fb519014d3&extent=-130.0000,20.0000,-60.0000,50.0000&zoom=true&scale=false&search=true&searchextent=false&legend=true&basemap_toggle=true&alt_basemap=hybrid&disable_scroll=false&theme=light" style="color:#0000FF;text-align:left" target="_blank">View larger map</a></small><br><iframe width="900" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Two a Temple" src="//virginiatech.maps.arcgis.com/apps/Embed/index.html?webmap=b74061f1d0bc4a20b35fb1fb519014d3&extent=-130.0000,20.0000,-60.0000,50.0000&zoom=true&previewImage=false&scale=false&search=true&searchextent=false&legend=true&basemap_toggle=true&alt_basemap=hybrid&disable_scroll=false&theme=light"></iframe>
 
-</iframe>
 :::
 :::
-
+<br>
 Also, before temples are dedicated for use by church members, there is always an open house to the public. If you ever happen to have the chance to attend an LDS temple open house event, go.
 
 ![Temple in Rexburg, Idaho](rexburg.jpg){fig-align="center"}
